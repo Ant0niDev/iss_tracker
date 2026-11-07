@@ -1,0 +1,7 @@
+.idea/
+venv/
+.env
+background.png
+kanye.png
+start_code.py
+__pycache__/
