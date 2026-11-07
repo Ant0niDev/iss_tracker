@@ -1,4 +1,4 @@
-name: Birthday-email
+name: Alert-email
 
 on:
   schedule:
